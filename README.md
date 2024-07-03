@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP,Laravel etc.**
 
-- 👯 I’m Have successfully completed [Polytechnic Management Site](fashonworld.rf.gd)
+- 👯 I’m Have successfully completed **Many projects Using Wordpess,C#,Mysql,PHP,etc.**
 
 - 📫 How to reach me **sourovsarker-21ia@dipti.com.bd**
 
