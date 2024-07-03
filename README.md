@@ -1,6 +1,6 @@
 ![logo](https://github.com/sourov-kumar/sourov-kumar/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sourov Kumar</h1>
-<h3 align="center">A passionate CSE Student From Bangladesh.</h3>
+<h3 align="center">A passionate computer science Student From Bangladesh.</h3>
 <img align="right" alt"Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourov-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sourov-kumar" /> </p>
