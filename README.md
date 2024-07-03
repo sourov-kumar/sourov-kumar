@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sourovsarker-21ia@dipti.com.bd**
 
-- ⚡ Fun fact **I have leared Cyber Security,Networking and SEO too**
+- ⚡ Fun fact **I have leared Cyber Security,Networking and SEO Too .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
